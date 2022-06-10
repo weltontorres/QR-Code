@@ -1,4 +1,4 @@
-# QR code Challenge (Frontend Mentor)
+# QR code (Frontend Mentor Challenge)
 
 Hello! Thanks for coming and read about my accomplishment.
 
